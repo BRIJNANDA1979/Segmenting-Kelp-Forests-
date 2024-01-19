@@ -1,1 +1,2 @@
-open source project by DRIVENDATA competetetion online
+open source project for
+DRIVENDATA competetetion online
